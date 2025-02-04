@@ -15,6 +15,7 @@ To utilize this data, make sure the papers are cited.
   year={2024},
   publisher={IOP Publishing}
 }
+
 >  @inproceedings{khan2024interpretable,
   title={Interpretable Motor Sound Classification for Enhanced Fault Detection Leveraging Explainable AI},
   author={Khan, Shaiq Ahmad and Khan, Faiq Ahmad and Jamil, Akhtar and Hameed, Alaa Ali},
@@ -26,7 +27,9 @@ To utilize this data, make sure the papers are cited.
 
 ### APA
 > Khan, F. A., Jamil, A., Khan, S. A., & Hameed, A. A. (2024). Enhancing robotic manipulator fault detection with advanced machine learning techniques. Engineering Research Express, 6(2), 025204.
+
 > Khan, S. A., Khan, F. A., Jamil, A., & Hameed, A. A. (2024, April). Interpretable Motor Sound Classification for Enhanced Fault Detection Leveraging Explainable AI. In 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI) (pp. 1-10). IEEE.
 ### Harvard
 > Khan, F.A., Jamil, A., Khan, S.A. and Hameed, A.A., 2024. Enhancing robotic manipulator fault detection with advanced machine learning techniques. Engineering Research Express, 6(2), p.025204.
+
 > Khan, S.A., Khan, F.A., Jamil, A. and Hameed, A.A., 2024, April. Interpretable Motor Sound Classification for Enhanced Fault Detection Leveraging Explainable AI. In 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI) (pp. 1-10). IEEE.
